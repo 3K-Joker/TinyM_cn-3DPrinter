@@ -2,7 +2,7 @@
 
 <img src="https://github.com/gsl12/Tiny-M/blob/master/images/tiny-m_v4.jpg" width="300">
 
-## 一个关于如何搭建3D打印机的指南
+**一个关于如何搭建3D打印机的指南**
 
 A guide on how to build a 3D printer called "Tiny-M" in chinese.
 

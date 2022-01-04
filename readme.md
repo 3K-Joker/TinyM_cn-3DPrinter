@@ -18,7 +18,7 @@ Tiny-M是基于Voron改造而来，内部打印体积: **150x150x150mm**
 
 也许有许多谬误出现，欢迎加入 [Discord](https://discord.gg/tmZkjWs) 一起讨论
 
----
+
 
 ## 项目简介
 
